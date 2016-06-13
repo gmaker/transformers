@@ -5,7 +5,7 @@ import com.badlogic.gdx.backends.lwjgl.LwjglApplicationConfiguration;
 import ru.znay.znay.tr.TransformersGame;
 
 public class DesktopLauncher {
-    public static final int SCALE = 2;
+    public static final int SCALE = 1;
 
     public static void main(String[] arg) {
         LwjglApplicationConfiguration config = new LwjglApplicationConfiguration();
